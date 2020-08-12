@@ -1,5 +1,13 @@
 # whiskers
 
+## Running Whiskers R We
+ 
+The easiest way is to just use the published docker image:
+
+`docker run -it -p 8082:80 systeminit/whiskers:latest`
+
+Victory then belongs to you, and to the cats.
+
 ## Project setup
 ```
 npm install
